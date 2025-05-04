@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "finabank",
+			"path": "../.."
+		},
+		{
+			"name": "app",
+			"path": "../../../finbank/app"
+		}
+	],
+	"settings": {}
+}
